@@ -1,0 +1,42 @@
+D:\Нужное\Курсовая\Курсовая 2018\На перекидку\SharifullinExcelPlotter\obj\Debug\MTDDR.csprojResolveAssemblyReference.cache
+D:\Нужное\Курсовая\Курсовая 2018\На перекидку\SharifullinExcelPlotter\obj\Debug\MTDDR.csproj.ResolveComReference.cache
+D:\Нужное\Курсовая\Курсовая 2018\На перекидку\SharifullinExcelPlotter\obj\Debug\MTDDR.Form1.resources
+D:\Нужное\Курсовая\Курсовая 2018\На перекидку\SharifullinExcelPlotter\obj\Debug\MTDDR.Properties.Resources.resources
+D:\Нужное\Курсовая\Курсовая 2018\На перекидку\SharifullinExcelPlotter\obj\Debug\MTDDR.csproj.GenerateResource.Cache
+D:\Нужное\Курсовая\Курсовая 2018\На перекидку\SharifullinExcelPlotter\obj\Debug\MTDDR.csproj.CoreCompileInputs.cache
+D:\Нужное\Курсовая\Курсовая 2018\На перекидку\SharifullinExcelPlotter\bin\Debug\MTDDR.exe.config
+D:\Нужное\Курсовая\Курсовая 2018\На перекидку\SharifullinExcelPlotter\bin\Debug\MTDDR.exe
+D:\Нужное\Курсовая\Курсовая 2018\На перекидку\SharifullinExcelPlotter\bin\Debug\MTDDR.pdb
+D:\Нужное\Курсовая\Курсовая 2018\На перекидку\SharifullinExcelPlotter\obj\Debug\MTDDR.exe
+D:\Нужное\Курсовая\Курсовая 2018\На перекидку\SharifullinExcelPlotter\obj\Debug\MTDDR.pdb
+D:\Нужное\Курсовая\Курсовая 2018\MTDDR\SharifullinExcelPlotter\obj\Debug\MTDDR.csprojResolveAssemblyReference.cache
+D:\Нужное\Курсовая\Курсовая 2018\MTDDR\SharifullinExcelPlotter\obj\Debug\MTDDR.csproj.ResolveComReference.cache
+D:\Нужное\Курсовая\Курсовая 2018\MTDDR\SharifullinExcelPlotter\obj\Debug\MTDDR.Form1.resources
+D:\Нужное\Курсовая\Курсовая 2018\MTDDR\SharifullinExcelPlotter\obj\Debug\MTDDR.Properties.Resources.resources
+D:\Нужное\Курсовая\Курсовая 2018\MTDDR\SharifullinExcelPlotter\obj\Debug\MTDDR.csproj.GenerateResource.Cache
+D:\Нужное\Курсовая\Курсовая 2018\MTDDR\SharifullinExcelPlotter\obj\Debug\MTDDR.csproj.CoreCompileInputs.cache
+D:\Нужное\Курсовая\Курсовая 2018\MTDDR\SharifullinExcelPlotter\obj\Debug\MTDDR.exe
+D:\Нужное\Курсовая\Курсовая 2018\MTDDR\SharifullinExcelPlotter\obj\Debug\MTDDR.pdb
+D:\Нужное\Курсовая\Курсовая 2018\MTDDR\SharifullinExcelPlotter\bin\Debug\MTDDR.exe.config
+D:\Нужное\Курсовая\Курсовая 2018\MTDDR\SharifullinExcelPlotter\bin\Debug\MTDDR.exe
+D:\Нужное\Курсовая\Курсовая 2018\MTDDR\SharifullinExcelPlotter\bin\Debug\MTDDR.pdb
+D:\Нужное\Курсовая\MTDDR\SharifullinExcelPlotter\bin\Debug\MTDDR.exe.config
+D:\Нужное\Курсовая\MTDDR\SharifullinExcelPlotter\bin\Debug\MTDDR.exe
+D:\Нужное\Курсовая\MTDDR\SharifullinExcelPlotter\bin\Debug\MTDDR.pdb
+D:\Нужное\Курсовая\MTDDR\SharifullinExcelPlotter\obj\Debug\MTDDR.csprojResolveAssemblyReference.cache
+D:\Нужное\Курсовая\MTDDR\SharifullinExcelPlotter\obj\Debug\MTDDR.Form1.resources
+D:\Нужное\Курсовая\MTDDR\SharifullinExcelPlotter\obj\Debug\MTDDR.Properties.Resources.resources
+D:\Нужное\Курсовая\MTDDR\SharifullinExcelPlotter\obj\Debug\MTDDR.csproj.GenerateResource.cache
+D:\Нужное\Курсовая\MTDDR\SharifullinExcelPlotter\obj\Debug\MTDDR.csproj.CoreCompileInputs.cache
+D:\Нужное\Курсовая\MTDDR\SharifullinExcelPlotter\obj\Debug\MTDDR.exe
+D:\Нужное\Курсовая\MTDDR\SharifullinExcelPlotter\obj\Debug\MTDDR.pdb
+E:\Нужное\Курсовая\MTDDR\SharifullinExcelPlotter\bin\Debug\MTDDR.exe.config
+E:\Нужное\Курсовая\MTDDR\SharifullinExcelPlotter\bin\Debug\MTDDR.exe
+E:\Нужное\Курсовая\MTDDR\SharifullinExcelPlotter\bin\Debug\MTDDR.pdb
+E:\Нужное\Курсовая\MTDDR\SharifullinExcelPlotter\obj\Debug\MTDDR.csprojAssemblyReference.cache
+E:\Нужное\Курсовая\MTDDR\SharifullinExcelPlotter\obj\Debug\MTDDR.Form1.resources
+E:\Нужное\Курсовая\MTDDR\SharifullinExcelPlotter\obj\Debug\MTDDR.Properties.Resources.resources
+E:\Нужное\Курсовая\MTDDR\SharifullinExcelPlotter\obj\Debug\MTDDR.csproj.GenerateResource.cache
+E:\Нужное\Курсовая\MTDDR\SharifullinExcelPlotter\obj\Debug\MTDDR.csproj.CoreCompileInputs.cache
+E:\Нужное\Курсовая\MTDDR\SharifullinExcelPlotter\obj\Debug\MTDDR.exe
+E:\Нужное\Курсовая\MTDDR\SharifullinExcelPlotter\obj\Debug\MTDDR.pdb
